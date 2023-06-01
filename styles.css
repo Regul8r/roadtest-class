@@ -1,0 +1,10 @@
+body {
+    background-color: darkslategrey;
+    color: beige;
+}
+
+h1 {
+    font-family: 'Saira Condensed', sans-serif;
+    color:rgb(0, 0, 0);
+    font-size: 70px;
+}
